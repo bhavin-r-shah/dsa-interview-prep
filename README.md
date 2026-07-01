@@ -19,6 +19,9 @@
 - Any exceptions to handle? e.g. File_Not_Found, Array_Index_Out_of_Bounds
 - Make sure program exits gracefully in case of any errors
 
+## Pattern Recognition
+Identify the problem solving pattern. Refer cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
+
 ## Pseudo Code:
 - Write a psuedo code to get mental map of the solution
 
