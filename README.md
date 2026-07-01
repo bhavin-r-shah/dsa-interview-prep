@@ -15,13 +15,14 @@
 - E.g. In a Fibonaci series each number is the sum of the previous 2 numbers in the series, starting from 0 and 1.
 
 ## Pattern Recognition
-Identify the problem solving pattern. Refer cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
+- Identify the problem solving pattern.
+- Refer cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
 
 ## Error Handling / Edge Cases
 - Validate inputs and send required errors.
 - Any exceptions to handle? e.g. File_Not_Found, Array_Index_Out_of_Bounds
 - Make sure program exits gracefully in case of any errors
-- - Identify corner cases and adjust logic to handle them
+- Identify corner cases and adjust logic to handle them
 
 ## Pseudo Code:
 - Write a psuedo code to get mental map of the solution
@@ -35,7 +36,6 @@ Useful information I want to keep handy.
 - [Base Conversion](cheatSheet/BaseConversion.md)
 - [JS: Data Types, Pass by Value or Reference](cheatSheet/JavascriptPassByValueOrReference.ts)
 
-
 ## TO-DO:
 > [!WARNING] 
-> Think like PM and draft a section for that
+> Product Thinking for applications: What is the purpose & motivation behind building this app, how are the end users and what do they want, what metrics do we want to track, how will we test the POC & susbequent app version, how will we collet user feedback, process for iterating the product
