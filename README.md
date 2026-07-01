@@ -14,13 +14,14 @@
 - Clarify facts
 - E.g. In a Fibonaci series each number is the sum of the previous 2 numbers in the series, starting from 0 and 1.
 
-## Error Handling
+## Pattern Recognition
+Identify the problem solving pattern. Refer cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
+
+## Error Handling / Edge Cases
 - Validate inputs and send required errors.
 - Any exceptions to handle? e.g. File_Not_Found, Array_Index_Out_of_Bounds
 - Make sure program exits gracefully in case of any errors
-
-## Pattern Recognition
-Identify the problem solving pattern. Refer cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
+- - Identify corner cases and adjust logic to handle them
 
 ## Pseudo Code:
 - Write a psuedo code to get mental map of the solution
