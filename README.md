@@ -1,9 +1,5 @@
 # Approach to writing a program
 
-## TO-DO:
-> [!WARNING] 
-> Think like PM and draft a section for that
-
 ## Open Questions
 - Ask questions to clarify my understanding of the question
 - Ask about corner cases
@@ -34,3 +30,8 @@ Useful information I want to keep handy.
 - [DSA Patterns](cheatSheet/DsaPatterns.md)
 - [Base Conversion](cheatSheet/BaseConversion.md)
 - [JS: Data Types, Pass by Value or Reference](cheatSheet/JavascriptPassByValueOrReference.ts)
+
+
+## TO-DO:
+> [!WARNING] 
+> Think like PM and draft a section for that
