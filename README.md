@@ -16,7 +16,14 @@
 
 ## Pattern Recognition
 - Identify the problem solving pattern.
-- Refer cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
+- DSA Patterns:
+1. Remember Previous Value
+2. Print A Pattern
+3. Two Pointer
+4. Using helper data structure
+5. Moving an element to its required position
+6. Recursion
+- Pattern details in cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
 
 ## Error Handling / Edge Cases
 - Validate inputs and send required errors.
