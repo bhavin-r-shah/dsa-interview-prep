@@ -21,7 +21,7 @@ Typically acheived by using nested loops.
 - Print a right hand triangle.
 - Print christmas tree of height h.
 
-## 3. 2 pointer
+## 3. Two pointer
 ### How it works?
 - Point 2 variables to 2 points in the data structure you are dealing with.
 - Move these pointers around to read elements at that pointer.
