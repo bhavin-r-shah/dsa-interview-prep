@@ -1,10 +1,10 @@
 # Approach to writing a program
 
-## Open Questions
-- Ask questions to clarify my understanding of the question
-- Ask about corner cases
-- Ask about error handling
-- Ask about posible inputs and possible outputs
+## Ask questions to clarify:
+- My understanding of the question
+- Corner cases
+- Error handling
+- Posible inputs and possible outputs
 
 ## Assumptions:
 - Clearly state assumptions
