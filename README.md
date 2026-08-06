@@ -15,7 +15,7 @@
 - E.g. In a Fibonaci series each number is the sum of the previous 2 numbers in the series, starting from 0 and 1.
 
 ## Pattern Recognition
-- Identify the problem solving pattern.
+- Identify the problem solving pattern. Details in cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
 - DSA Patterns:
 1. Remember Previous Value
 2. Print A Pattern
@@ -23,7 +23,6 @@
 4. Using helper data structure
 5. Moving an element to its required position
 6. Recursion
-- Pattern details in cheat sheet [DSA Patterns](cheatSheet/DsaPatterns.md).
 
 ## Error Handling / Edge Cases
 - Validate inputs and send required errors.
