@@ -1,6 +1,8 @@
 # Map
 ## Create Map
+```
 var map = new Map();
+```
 ## Check if key exists
 map.has(key);
 ## Get Value
