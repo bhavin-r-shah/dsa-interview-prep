@@ -46,8 +46,8 @@ new Map([
 });
 ```
 ### Get Map Entries
+Returns ```[[key1, value1], [key2, value2], ...]```
 ```
-// Returns [[key1, value1], [key2, value2], ...]
 map.entries();
 ```
 ### Sort by values
