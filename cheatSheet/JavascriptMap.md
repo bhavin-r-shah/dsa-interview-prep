@@ -1,7 +1,7 @@
 # JS Data Structures
 
 ## Map
-### Create Map ```var map = new Map();```
+### Create Map: ```var map = new Map();```
 ### Check if key exists
 ```
 map.has(key);
