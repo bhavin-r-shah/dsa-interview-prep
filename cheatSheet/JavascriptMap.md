@@ -9,18 +9,33 @@ var map = new Map();
 ```
 map.has(key);
 ```
-### Get Value
-```
-map.get(key)
-```
-### Set Value
+### Get
+Get specific entry ```map.get(key)```
+Get itertor over all keys ```map.keys()```
+Get iterator over all values ```map.values()```
+## Set
 ```
 map.set(key, value);
 ```
-### Map Size (Length / no of entries)
+## Delete
+```
+map.delete(key);
+```
+## Map Length
 ```
 const size = map.size
 ```
+## Loop
+```
+new Map([
+  ["foo", 3],
+  ["bar", {}],
+  ["baz", undefined],
+]).forEach((value, key) => {
+  console.log(`Key ${key}, value ${value}`);
+});
+```
+Note: In the args list of forEach, value is 1st param and key is 2nd param.
 ### Get Map Entries
 ```
 map.entries()
