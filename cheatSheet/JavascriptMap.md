@@ -10,11 +10,11 @@ var map = new Map();
 map.has(key);
 ```
 ### Get
-Get specific entry 
+#### Get specific entry 
 ```map.get(key)```
-Get iterator over all keys 
+#### Get iterator over all keys 
 ```map.keys()```
-Get iterator over all values 
+#### Get iterator over all values 
 ```map.values()```
 ## Set
 ```
