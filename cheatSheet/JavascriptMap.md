@@ -35,6 +35,7 @@ map.delete(key);
 const size = map.size
 ```
 ## Loop
+Note: In the args list of forEach, value is 1st param and key is 2nd param.
 ```
 new Map([
   ["foo", 3],
@@ -44,7 +45,6 @@ new Map([
   console.log(`Key ${key}, value ${value}`);
 });
 ```
-Note: In the args list of forEach, value is 1st param and key is 2nd param.
 ### Get Map Entries
 ```
 map.entries()
