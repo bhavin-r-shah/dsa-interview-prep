@@ -46,14 +46,13 @@ new Map([
 });
 ```
 ### Get Map Entries
-Returns ```[[key1, value1], [key2, value2], ...]```
 ```
 map.entries();
 ```
 ### Sort by values
 ```
 const mapEntries = map.entries();
-const mapEntriesArr = [...mapEntries];
+const mapEntriesArr = [...mapEntries]; Returns [[key1, value1], [key2, value2], ...]
 const sortedMapEntriesArr = mapEntriesArr.sort((a, b) => {
     return b[1] < a[1] ? 1 : (b[1] > a[1] ? -1 : 0); // Ascending Sort
     // return b[1] > a[1] ? 1 : (b[1] < a[1] ? -1 : 0); // Descending Sort
