@@ -1,18 +1,27 @@
 # JS Data Structures
 
 ## Map
-### Create Map: ```var map = new Map();```
+### Create Map
+```
+var map = new Map();
+```
 ### Check if key exists
 ```
 map.has(key);
 ```
 ### Get
 #### Get specific entry 
-```map.get(key)```
+```
+map.get(key)
+```
 #### Get iterator over all keys 
-```map.keys()```
+```
+map.keys()
+```
 #### Get iterator over all values 
-```map.values()```
+```
+map.values()
+```
 ## Set
 ```
 map.set(key, value);
