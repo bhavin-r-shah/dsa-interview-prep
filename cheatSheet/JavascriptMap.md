@@ -22,19 +22,19 @@ map.keys()
 ```
 map.values()
 ```
-## Set
+### Set
 ```
 map.set(key, value);
 ```
-## Delete
+### Delete
 ```
 map.delete(key);
 ```
-## Map Length
+### Map Length
 ```
 const size = map.size
 ```
-## Loop
+### Loop
 Note: In the args list of forEach, value is 1st param and key is 2nd param.
 ```
 new Map([
